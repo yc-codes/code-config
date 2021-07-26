@@ -1,0 +1,66 @@
+{
+    "git.enableSmartCommit": true,
+    "editor.fontFamily": "\"Cascadia Code PL\",\"Cascadia Code\",Consolas, 'Courier New', monospace",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "dart.warnWhenEditingFilesOutsideWorkspace": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "html.format.wrapLineLength": 0,
+    "dart.debugExternalLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "liveshare.presence": true,
+    "prettier.tabWidth": 4,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "livePugCompiler.savePath": "/",
+    "workbench.statusBar.visible": true,
+    "editor.fontLigatures": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "tailwindCSS.emmetCompletions": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.tabSize": 2,
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.colorTheme": "GitHub Dark",
+    "files.defaultLanguage": "${activeEditorLanguage}",
+    "workbench.editor.pinnedTabSizing": "shrink",
+    "editor.suggest.insertMode": "replace",
+    "php-cs-fixer.config": "/home/kode/.vscode/php-cs-fixer.php",
+    "editor.formatOnSave": true,
+    "gitlens.mode.active": "zen",
+    "editor.minimap.enabled": false,
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+    "php-cs-fixer.lastDownload": 1626850686314,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.statusBar.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": false,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false
+    },
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.visible": false,
+    "workbench.editor.enablePreview": false
+}
