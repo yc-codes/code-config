@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg" style="margin-right: 0.5rem;height: 1.7rem;" /> VS Code Configuration
+# VS Code Configuration
 
 ### How to use
 
