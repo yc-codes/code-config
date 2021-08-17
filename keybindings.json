@@ -145,5 +145,31 @@
     {
         "key": "ctrl+k e",
         "command": "workbench.files.action.focusFilesExplorer"
+    },
+    {
+        "key": "ctrl+k a",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "ctrl+k c",
+        "command": "workbench.files.action.collapseExplorerFolders",
+        "when": "view.workbench.explorer.fileView.visible"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "explorer.newFile",
+        "when": "view.workbench.explorer.fileView.visible",
+    },
+    {
+        "key": "ctrl+k p",
+        "command": "workbench.action.gotoSymbol"
+    },
+    {
+        "key": "ctrl+shift+o",
+        "command": "-workbench.action.gotoSymbol"
+    },
+    {
+        "key": "ctrl+q",
+        "command": "-workbench.action.quit"
     }
 ]
