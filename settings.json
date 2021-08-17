@@ -1,4 +1,5 @@
 {
+    "dart.flutterSdkPath": "E:\\ProgramFiles\\flutter",
     "git.enableSmartCommit": true,
     "editor.fontFamily": "\"Cascadia Code PL\",\"Cascadia Code\",Consolas, 'Courier New', monospace",
     "[javascript]": {
@@ -12,7 +13,6 @@
     "dart.debugExternalLibraries": false,
     "dart.debugSdkLibraries": false,
     "liveshare.presence": true,
-    "prettier.tabWidth": 4,
     "[javascriptreact]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
@@ -24,9 +24,6 @@
     "liveServer.settings.donotVerifyTags": true,
     "tailwindCSS.emmetCompletions": true,
     "typescript.updateImportsOnFileMove.enabled": "always",
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
     "editor.tabSize": 2,
     "[typescript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
@@ -45,10 +42,9 @@
     "php-cs-fixer.config": "/home/kode/.vscode/php-cs-fixer.php",
     "editor.formatOnSave": true,
     "gitlens.mode.active": "zen",
-    "editor.minimap.enabled": false,
     "editor.suggestSelection": "recentlyUsedByPrefix",
     "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
-    "php-cs-fixer.lastDownload": 1626850686314,
+    "php-cs-fixer.lastDownload": 1628145691340,
     "gitlens.codeLens.enabled": false,
     "gitlens.statusBar.enabled": false,
     "gitlens.currentLine.enabled": false,
@@ -58,9 +54,27 @@
         "*": false,
         "yaml": false,
         "plaintext": false,
-        "markdown": false
+        "markdown": false,
+        "typescriptreact": true
     },
     "workbench.sideBar.location": "right",
-    "workbench.activityBar.visible": false,
-    "workbench.editor.enablePreview": false
+    "workbench.editor.enablePreview": false,
+    "git.confirmSync": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.format.enable": true,
+    "prettier.printWidth": 220,
+    "prettier.semi": false,
+    "prettier.jsxSingleQuote": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.lineHeight": 2,
+    "editor.minimap.enabled": false,
+    "update.mode": "none",
+    "screencastMode.onlyKeyboardShortcuts": true,
+    "settingsSync.ignoredSettings": [
+        "update.mode"
+    ],
 }
